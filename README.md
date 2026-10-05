@@ -61,7 +61,7 @@ This project is deployed and hosted live on GitHub Pages.
 
 OUZIF Nabil
 
-GitHub: @ouzifnabil2-creator
+GitHub: ouzifnabil2-create
 
 LinkedIn: OUZIF Nabil
 
